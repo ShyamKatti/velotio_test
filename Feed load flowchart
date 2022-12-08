@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T18:14:43.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rYPkUjeoPiatXuSTi6VM" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T18:15:40.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="w5bZ_EQn_gFMnUKsyyM3" version="15.9.1" type="github">
   <diagram id="m6c6bwr07oDBPnch7gqS" name="Page-1">
     <mxGraphModel dx="893" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
             <mxPoint x="400" y="170" as="sourcePoint" />
             <mxPoint x="430" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BvgjnL9jdw8bTsuL49Yr-23" value="StayFlexi&lt;br&gt;eZee&lt;br&gt;Cloudbeds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
